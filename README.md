@@ -21,9 +21,8 @@ The Active Directory project aimed to strengthen my knowledge of general IT conc
 
 ## Steps
 
-Every screenshot should have some text explaining what the screenshot is about.
+All steps and documentation for this lab are linked below.
 
-Example below.
+<a href="https://github.com/hameetbenipal/Active-Directory-Project/blob/main/AD%20Project%20Documentation.pdf">Lab Documentation</a>
 
-*Ref 1: Network Diagram*
 
