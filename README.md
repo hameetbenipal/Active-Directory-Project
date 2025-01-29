@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Active Directory project aimed to strengthen my knowledge of general IT concepts, as well as gain hands-on experience with a simulated attack and Blue Team/Red Team scenarios. This lab includes setting up an Active Directory enviroment and learning about IT administration and domains. Additonally, a SIEM will be utilized to ingest telemetry and logs in order to set up alerts from harmful actors. Overall, this lab provided me with hands-on experience with muliple facets of security and various evironments that occur in real life scenarios. 
+The Active Directory project aimed to strengthen my knowledge of general IT concepts, as well as gain hands-on experience with a simulated attack and Blue Team/Red Team scenarios. This lab includes setting up an Active Directory enviroment and learning about IT administration and domains. Additionally, a SIEM will be utilized to ingest telemetry and logs in order to set up alerts from harmful actors. Overall, this lab provided me with hands-on experience with multiple facets of security and various environments that occur in real life scenarios. 
 
 ### Skills Learned
 
